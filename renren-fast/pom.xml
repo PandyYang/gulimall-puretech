@@ -52,7 +52,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.pandy.gulimall.common</groupId>
+			<groupId>com.puretech.gulimall</groupId>
 			<artifactId>gulimall-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
